@@ -1,0 +1,6 @@
+{
+  "appId": "com.rupak.lobbyledger",
+  "appName": "Rupak Lobby Ledger",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

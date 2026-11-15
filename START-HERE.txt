@@ -1,0 +1,10 @@
+RUPAK LOBBY LEDGER — START HERE
+
+1) Read README.md completely.
+2) Set up Firebase Authentication + Firestore and create .env from .env.example.
+3) Publish firestore.rules in Firebase.
+4) Run npm install, then npm run build.
+5) Run npx cap add android, then npx cap sync android.
+6) Open android project in Android Studio and build APK.
+
+Your QR code upload/replace/remove option is in Settings. It is stored in your private Firestore account and can be toggled on/off in report exports.
